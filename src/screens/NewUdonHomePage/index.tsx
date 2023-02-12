@@ -216,7 +216,7 @@ export const NewUdonHomePage = () => {
 					<div className="main-homepage-sigup">
 						<div className="row">
 							<div className="col-md-12">
-								<h3 className="sigup-udonex"> {translate('page.homePage.feature.title')} </h3>
+								<h3 className="sigup-bimex"> {translate('page.homePage.feature.title')} </h3>
 							</div>
 						</div>
 						<div className="row" style={{ marginTop: 90 }}>

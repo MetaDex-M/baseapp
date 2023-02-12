@@ -277,7 +277,7 @@ export const AssetsFeeScreen = () => {
 			<div id="assets-fee-header" className="container-fluid">
 				<div className="row">
 					<div className="col-12">
-						<h1>Fee Structure on UDONEX</h1>
+						<h1>Fee Structure on BIMEX</h1>
 					</div>
 				</div>
 			</div>

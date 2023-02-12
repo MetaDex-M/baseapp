@@ -1,5 +1,5 @@
 import { Empty } from 'antd';
-import UdonIconGif from 'assets/icon-udonex.gif';
+import UdonIconGif from 'assets/icon-bimex.gif';
 import { NewPagination } from 'components';
 import { useVoteDonateFreeFetch, useVoteListFetch, useWalletsFetch } from 'hooks';
 import get from 'lodash/get';

@@ -1445,7 +1445,7 @@ export const en = {
 		'Do you want to purchase ready-made crypto exchange with existing domain name, custom design and layout? Get one in less than 24 hours!',
 	'landing.banner.content.domain.text': 'READY-MADE',
 	'landing.banner.content.domain.sub': 'CORE EXCHANGES',
-	'landing.banner.content.domain.udonex': 'trading.biMex.live - LIVE',
+	'landing.banner.content.domain.bimex': 'trading.biMex.live - LIVE',
 	'landing.banner.content.domain.udonswap': 'biMex - SOON',
 	'landing.banner.content.domain.nft': 'NFT - SOON',
 	'landing.banner.content.domain.action.title': 'Up to',

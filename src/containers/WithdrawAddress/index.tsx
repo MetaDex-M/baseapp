@@ -8,7 +8,7 @@ import { useIntl } from 'react-intl';
 import { useDispatch, useSelector } from 'react-redux';
 import { useHistory } from 'react-router';
 import { ModalWithdrawConfirmation, ModalWithdrawSubmit, Withdraw, WithdrawProps } from '..';
-import UdonIconGif from '../../assets/images/icon-udonex.gif';
+import UdonIconGif from '../../assets/images/icon-bimex.gif';
 import { LockIcon } from '../../assets/images/LockIcon';
 import { WalletItemProps } from '../../components';
 import { getTabName } from '../../helpers';

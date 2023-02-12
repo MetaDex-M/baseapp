@@ -6,7 +6,7 @@ import * as React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { selectStakingListLoading, selectStakingList, stakingListFetch } from '../../../../modules';
 import { StakingList } from '../../containers';
-import UdonIconGif from './icon-udonex.gif';
+import UdonIconGif from './icon-bimex.gif';
 import { useIntl } from 'react-intl';
 
 export const StakingListScreen = () => {

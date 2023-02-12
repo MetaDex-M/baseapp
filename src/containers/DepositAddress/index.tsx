@@ -15,7 +15,7 @@ import {
 	walletsAddressFetch,
 	walletsFetch,
 } from '../../modules';
-import UdonIconGif from '../../assets/images/icon-udonex.gif';
+import UdonIconGif from '../../assets/images/icon-bimex.gif';
 import { toLower, toUpper } from 'lodash';
 interface DepositAddressProps {
 	currency_id: string;

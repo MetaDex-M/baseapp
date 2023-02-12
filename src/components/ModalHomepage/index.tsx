@@ -38,8 +38,8 @@ export const ModalHomepage = props => {
 						<h4 className="modal-body-title">How to join UDON Sale Whitelist ?</h4>
 						<div className="modal-body-description">
 							<ul>
-								<li>1. Copy UDONEX SALE WALLET</li>
-								<li>2. Sent Your BNB, USDT or BUSD to UDONEX SALE WALLET</li>
+								<li>1. Copy BIMEX SALE WALLET</li>
+								<li>2. Sent Your BNB, USDT or BUSD to BIMEX SALE WALLET</li>
 								<li>3. Your amount will auto cover to USD</li>
 							</ul>
 						</div>

@@ -1,5 +1,5 @@
 import { minutesUntilAutoLogout, sessionCheckInterval /* showLanding */ } from 'api';
-import UdonIconGif from 'assets/icon-udonex.gif';
+import UdonIconGif from 'assets/icon-bimex.gif';
 import { NewModal } from 'components';
 import { WalletsFetch } from 'containers';
 import { MarketsList } from 'containers/MarketsList';

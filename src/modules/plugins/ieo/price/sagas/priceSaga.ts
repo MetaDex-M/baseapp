@@ -18,7 +18,7 @@ export function* getPrice(action: GetPrice) {
 			price.data[key] = Number(price.data[key]);
 		});
 		let newPrice = { ...price.data };
-		// const cxPrice = yield axios.get('https://demo.zozitech.com/api/v2/udonex/public/markets/cxusdt/tickers');
+		// const cxPrice = yield axios.get('https://demo.zozitech.com/api/v2/bimex/public/markets/cxusdt/tickers');
 
 		newPrice = {
 			...newPrice,

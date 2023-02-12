@@ -438,7 +438,7 @@ export const UdonLanding = () => {
 								<div className="col-md-4 thirdscreen__main-product__items">
 									<img src={Banner} alt="soon" />
 									<a className="items__name" href="https://t.me/metadexm" target="_blank">
-										{intl.formatMessage({ id: 'landing.banner.content.domain.udonex' })}
+										{intl.formatMessage({ id: 'landing.banner.content.domain.bimex' })}
 									</a>
 									<div className="items__action">
 										<div className="items__action-title">

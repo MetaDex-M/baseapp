@@ -10,7 +10,7 @@ import { SALE_UDON_CONFIG } from 'screens';
 import WalletSVG from './wallet.svg';
 import { format as formatDate } from 'date-fns';
 import ReactPaginate from 'react-paginate';
-import biMexLoading from 'assets/icon-udonex.gif';
+import biMexLoading from 'assets/icon-bimex.gif';
 
 const PRIMARY_CURRENCY = 'udon';
 const USD_CURRENCY = 'usd';

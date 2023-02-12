@@ -10,7 +10,7 @@ import * as WebSocket from 'ws';
 const mockConfig: Config = {
 	api: {
 		authUrl: '/api/v2/barong',
-		tradeUrl: '/api/v2/udonex',
+		tradeUrl: '/api/v2/bimex',
 		applogicUrl: '/api/v2/applogic',
 		holderUrl: '/api/v2/holder',
 		rangerUrl: '/api/v2/ranger',

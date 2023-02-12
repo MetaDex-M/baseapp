@@ -1,6 +1,6 @@
 import { Empty } from 'antd';
 import message, { MessageType } from 'antd/lib/message';
-import UdonIconGif from 'assets/icon-udonex.gif';
+import UdonIconGif from 'assets/icon-bimex.gif';
 import { Decimal } from 'components';
 import { localeDate } from 'helpers';
 import { useVoteHistoryFetch } from 'hooks';

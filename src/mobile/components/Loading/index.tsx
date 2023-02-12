@@ -1,4 +1,4 @@
-import UdonIconGif from 'assets/icon-udonex.gif';
+import UdonIconGif from 'assets/icon-bimex.gif';
 import * as React from 'react';
 
 // tslint:disable-next-line: no-empty-interface

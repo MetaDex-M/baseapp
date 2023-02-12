@@ -2,7 +2,7 @@ import React from 'react';
 import { NewModal } from 'components';
 import { useDispatch, useSelector } from 'react-redux';
 import { selectWithdrawLimitChecking, withdrawLimitChecking } from 'modules';
-import udonLoading from 'assets/icon-udonex.gif';
+import udonLoading from 'assets/icon-bimex.gif';
 import status_failed from 'assets/status/fail.png';
 import { Button } from 'react-bootstrap';
 export interface ModalCheckingWithdrawProps {
