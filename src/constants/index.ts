@@ -1,6 +1,6 @@
 import { DropdownElem } from '../components/Order';
 
-export const PG_TITLE_PREFIX = 'mSamex Exchange';
+export const PG_TITLE_PREFIX = 'biMex Exchange';
 
 export const pgRoutes = (isLoggedIn: boolean, isLight?: boolean): string[][] => {
 	const routes = [

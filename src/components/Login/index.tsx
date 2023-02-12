@@ -175,7 +175,7 @@ const Login = React.memo((props: LogInProps) => {
 									marginTop: '1rem',
 								}}
 							>
-								WELCOME TO mSamex
+								WELCOME TO biMex
 							</div>
 						</div>
 					</div>

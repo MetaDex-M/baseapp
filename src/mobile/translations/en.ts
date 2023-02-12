@@ -187,7 +187,7 @@ export const en = {
 	'page.mobile.forgotPassword.desc': `For security purposes, no withdrawals are permitted for 24 hours after modification of security methods.`,
 	'page.mobile.forgotPassword.input.placeholder': `Enter your email`,
 	'page.mobile.forgotPassword.btn.next': `Next`,
-	'page.mobile.forgotPassword.footer': `© 2020 - 2022 mSamex.com. All rights reserved`,
+	'page.mobile.forgotPassword.footer': `© 2020 - 2022 biMex.com. All rights reserved`,
 
 	'page.body.trade.header.option.favorites.remove': `Remove from favorites`,
 	'page.body.trade.header.option.favorites.add': `Add to favorites`,

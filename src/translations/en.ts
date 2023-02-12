@@ -5,7 +5,7 @@ export const en = {
 	// new homepage
 	'page.homePage.banner.title.sale': 'SALE Round TWO START IN',
 	'page.homePage.banner.title.round': 'M in Sale Round TWO',
-	'page.homePage.banner.title.presale': 'mSamex PRESALE ROUND TWO',
+	'page.homePage.banner.title.presale': 'biMex PRESALE ROUND TWO',
 	'page.homePage.banner.time.days': 'DAYS',
 	'page.homePage.banner.time.hours': 'HOURS',
 	'page.homePage.banner.time.minutes': 'MINUTES',
@@ -13,9 +13,9 @@ export const en = {
 	'page.homePage.btn.buy': 'Buy M',
 	'page.homePage.btn.buyList': 'Buyer List',
 	'page.homePage.download.download': 'Download',
-	'page.homePage.download.name': 'mSamex',
+	'page.homePage.download.name': 'biMex',
 	'page.homePage.download.title': 'Trade BTC, USDT and Alt coins',
-	'page.homePage.feature.title': 'Why join UdonEX ?',
+	'page.homePage.feature.title': 'Why join biMex ?',
 	'page.homePage.feature.title.1': 'User-friendly interface with conventional tools.',
 	'page.homePage.feature.title.2': 'Professional market analytics',
 	'page.homePage.feature.title.3': 'Processing speed transactions and TCP connections.',
@@ -528,7 +528,7 @@ export const en = {
 	'page.body.landing.footer.about': 'About us',
 	'page.body.landing.footer.community': 'Community',
 	'page.body.landing.footer.info': 'Info',
-	'page.body.landing.footer.rights': 'mSamex © All rights reserved.',
+	'page.body.landing.footer.rights': 'biMex © All rights reserved.',
 
 	'pagy.body.footer.powered_by': 'Powered by',
 
@@ -1368,7 +1368,7 @@ export const en = {
 	'landing.banner.content.header.startnow': 'Contact Us',
 	'landing.banner.content.header.viewdemo': 'View Demo',
 
-	'landing.banner.content.header.title.desc': 'mSamex creates infrastructure and provides support',
+	'landing.banner.content.header.title.desc': 'biMex creates infrastructure and provides support',
 	'landing.banner.content.header.title.text': 'HOW',
 	'landing.banner.content.header.title.sub': 'It works',
 	'landing.banner.content.header.title.qoute':
@@ -1445,8 +1445,8 @@ export const en = {
 		'Do you want to purchase ready-made crypto exchange with existing domain name, custom design and layout? Get one in less than 24 hours!',
 	'landing.banner.content.domain.text': 'READY-MADE',
 	'landing.banner.content.domain.sub': 'CORE EXCHANGES',
-	'landing.banner.content.domain.udonex': 'xe.mSamex.COM - LIVE',
-	'landing.banner.content.domain.udonswap': 'mSamex - SOON',
+	'landing.banner.content.domain.udonex': 'trading.biMex.live - LIVE',
+	'landing.banner.content.domain.udonswap': 'biMex - SOON',
 	'landing.banner.content.domain.nft': 'NFT - SOON',
 	'landing.banner.content.domain.action.title': 'Up to',
 	'landing.banner.content.domain.action.title.br': 'request',
@@ -1509,11 +1509,11 @@ export const en = {
 	'landing.banner.content.demo.sub': 'EXCHANGES',
 
 	'landing.banner.content.demo.title.1': 'EXCHANGE',
-	'landing.banner.content.demo.option.login.right.1': 'user@udonex.com',
+	'landing.banner.content.demo.option.login.right.1': 'user@bimex.live',
 	'landing.banner.content.demo.option.password.right.1': 'demopassword',
 
 	'landing.banner.content.demo.title.2': 'Admin',
-	'landing.banner.content.demo.option.login.right.2': 'admin@udonex.com',
+	'landing.banner.content.demo.option.login.right.2': 'admin@bimex.live',
 	'landing.banner.content.demo.option.password.right.2': 'adminpassword',
 
 	'landing.banner.content.demo.title.3': 'Shareholder',
