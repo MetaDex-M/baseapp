@@ -1,6 +1,6 @@
 import { Empty } from 'antd';
 import message, { MessageType } from 'antd/lib/message';
-import UdonIconGif from 'assets/icon-bimex.gif';
+import BimexIconGif from 'assets/icon-bimex.gif';
 import { Decimal } from 'components';
 import { localeDate } from 'helpers';
 import { useVoteHistoryFetch } from 'hooks';
@@ -96,7 +96,7 @@ export const VoteHistory: React.FC<VoteHistoryProps> = ({}) => {
 					</table>
 					{isVoteHistoryLoading && (
 						<div className="pg-vote__data__inner--loading">
-							<img src={UdonIconGif} alt="loading" />
+							<img src={BimexIconGif} alt="loading" />
 						</div>
 					)}
 				</div>

@@ -1,5 +1,5 @@
 import { minutesUntilAutoLogout, sessionCheckInterval /* showLanding */ } from 'api';
-import UdonIconGif from 'assets/icon-bimex.gif';
+import BimexIconGif from 'assets/icon-bimex.gif';
 import { NewModal } from 'components';
 import { WalletsFetch } from 'containers';
 import { MarketsList } from 'containers/MarketsList';
@@ -146,7 +146,7 @@ export type LayoutProps = ReduxProps & DispatchProps & LocationProps & IntlProps
 
 const renderLoader = () => (
 	<div className="pg-loader-container">
-		<img src={UdonIconGif} alt="loading" />
+		<img src={BimexIconGif} alt="loading" />
 	</div>
 );
 

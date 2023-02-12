@@ -1,5 +1,5 @@
 import { Empty } from 'antd';
-import UdonIconGif from 'assets/icon-bimex.gif';
+import BimexIconGif from 'assets/icon-bimex.gif';
 import { NewPagination } from 'components';
 import { useVoteDonateFreeFetch, useVoteListFetch, useWalletsFetch } from 'hooks';
 import get from 'lodash/get';
@@ -185,7 +185,7 @@ export const VoteNews: React.FC<VoteNewsProps> = ({}) => {
 					</table>
 					{isVoteListLoading && (
 						<div className="pg-vote__data__inner--loading">
-							<img src={UdonIconGif} alt="loading" />
+							<img src={BimexIconGif} alt="loading" />
 						</div>
 					)}
 					{!dataTable.length && !isVoteListLoading && (

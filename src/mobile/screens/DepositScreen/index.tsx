@@ -20,7 +20,7 @@ import { useIntl } from 'react-intl';
 import { useDispatch, useSelector } from 'react-redux';
 import { useHistory, useParams } from 'react-router';
 import { Link } from 'react-router-dom';
-import UdonIconGif from '../../../assets/images/icon-bimex.gif';
+import BimexIconGif from '../../../assets/images/icon-bimex.gif';
 
 const BackSVG = (
 	<svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -106,7 +106,7 @@ const TabBody = props => {
 	const Loading = () => {
 		return (
 			<div className="react-tabs__loading">
-				<img src={UdonIconGif} alt="loading" />
+				<img src={BimexIconGif} alt="loading" />
 			</div>
 		);
 	};

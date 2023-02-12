@@ -4,7 +4,7 @@ import { ListItemIEO } from './../../containers';
 import { useDispatch, useSelector } from 'react-redux';
 import { selectIEOList, IEOListDataFetch, selectIEOListLoading } from './../../../../modules';
 import { toLower } from 'lodash';
-import UdonIconGif from './../../assets/loadingbiMex.gif';
+import BimexIconGif from './../../assets/loadingbiMex.gif';
 import { setDocumentTitle } from 'helpers';
 import { useIntl } from 'react-intl';
 
@@ -120,7 +120,7 @@ export const IEOListingScreen = () => {
 			<div className="row td-ieo-listing-screen__body mt-3">
 				{isLoadingIEO ? (
 					<div className="td-ieo-listing-screen__body-loading mt-3">
-						<img src={UdonIconGif} alt="loading" />
+						<img src={BimexIconGif} alt="loading" />
 						<h3 className="mr-4">{intl.formatMessage({ id: 'page.ieo.body.loading' })}</h3>
 					</div>
 				) : (

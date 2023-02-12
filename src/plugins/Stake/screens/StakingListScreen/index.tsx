@@ -6,7 +6,7 @@ import * as React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { selectStakingListLoading, selectStakingList, stakingListFetch } from '../../../../modules';
 import { StakingList } from '../../containers';
-import UdonIconGif from './icon-bimex.gif';
+import BimexIconGif from './icon-bimex.gif';
 import { useIntl } from 'react-intl';
 
 export const StakingListScreen = () => {
@@ -126,7 +126,7 @@ export const StakingListScreen = () => {
 			<div className="row desktop-staking-list-screen__body mt-3">
 				{isLoadingStake ? (
 					<div className="td-ieo-listing-screen__body-loading mt-3">
-						<img src={UdonIconGif} alt="loading" />
+						<img src={BimexIconGif} alt="loading" />
 						<h3 className="mr-4">{intl.formatMessage({ id: 'page.stake.body.loading' })}</h3>
 					</div>
 				) : (

@@ -15,7 +15,7 @@ import {
 	walletsAddressFetch,
 	walletsFetch,
 } from '../../modules';
-import UdonIconGif from '../../assets/images/icon-bimex.gif';
+import BimexIconGif from '../../assets/images/icon-bimex.gif';
 import { toLower, toUpper } from 'lodash';
 interface DepositAddressProps {
 	currency_id: string;
@@ -81,7 +81,7 @@ export const DepositAddress: React.FC<DepositAddressProps> = (props: DepositAddr
 	const Loading = () => {
 		return (
 			<div hidden={!isFetchChildCurrenciesLoading && selectedWalletAddress !== ''} className="react-tabs__loading">
-				<img src={UdonIconGif} alt="loading" />
+				<img src={BimexIconGif} alt="loading" />
 			</div>
 		);
 	};

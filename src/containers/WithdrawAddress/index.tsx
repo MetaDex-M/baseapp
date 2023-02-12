@@ -8,7 +8,7 @@ import { useIntl } from 'react-intl';
 import { useDispatch, useSelector } from 'react-redux';
 import { useHistory } from 'react-router';
 import { ModalWithdrawConfirmation, ModalWithdrawSubmit, Withdraw, WithdrawProps } from '..';
-import UdonIconGif from '../../assets/images/icon-bimex.gif';
+import BimexIconGif from '../../assets/images/icon-bimex.gif';
 import { LockIcon } from '../../assets/images/LockIcon';
 import { WalletItemProps } from '../../components';
 import { getTabName } from '../../helpers';
@@ -398,7 +398,7 @@ export const WithdrawAddress: React.FC<WithdrawAddressProps> = (props: WithdrawA
 								)}
 								{isFetchChildCurrenciesLoading ? (
 									<div className="react-tabs__loading">
-										<img src={UdonIconGif} alt="loading" />
+										<img src={BimexIconGif} alt="loading" />
 									</div>
 								) : null}
 							</div>
