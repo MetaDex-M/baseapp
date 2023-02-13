@@ -7,7 +7,7 @@ import { Link, useHistory } from 'react-router-dom';
 import { logoutFetch, selectUserLoggedIn } from '../../modules';
 
 // const Logo = require('../../assets/images/UdonLogo.svg');
-import Logo from'../../assets/images/UdonLogo.png';
+import Logo from'../../assets/images/BimexLogo.png';
 
 
 export const Header: React.FC = () => {

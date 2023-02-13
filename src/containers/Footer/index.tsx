@@ -5,7 +5,7 @@ import Twiter from './icon/new-twiter.svg';
 import Telegram from './icon/new-telegram.svg';
 import { FaPhoneAlt, FaEnvelope } from 'react-icons/fa';
 // const Logo = require('../../assets/images/UdonLogo.svg');
-import Logo from'../../assets/images/UdonLogo.png';
+import Logo from'../../assets/images/BimexLogo.png';
 
 
 export const Footer: React.FC = Props => {

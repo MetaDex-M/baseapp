@@ -460,7 +460,7 @@ export const UdonLanding = () => {
 								<div className="col-md-4 thirdscreen__main-product__items">
 									<img src={Soon} alt="soon" />
 									<div className="items__name">
-										{intl.formatMessage({ id: 'landing.banner.content.domain.udonswap' })}
+										{intl.formatMessage({ id: 'landing.banner.content.domain.bimexswap' })}
 									</div>
 									<div className="items__action">
 										<div className="items__action-title">

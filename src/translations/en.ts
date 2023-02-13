@@ -1446,7 +1446,7 @@ export const en = {
 	'landing.banner.content.domain.text': 'READY-MADE',
 	'landing.banner.content.domain.sub': 'CORE EXCHANGES',
 	'landing.banner.content.domain.bimex': 'trading.biMex.live - LIVE',
-	'landing.banner.content.domain.udonswap': 'biMex - SOON',
+	'landing.banner.content.domain.bimexswap': 'biMex - SOON',
 	'landing.banner.content.domain.nft': 'NFT - SOON',
 	'landing.banner.content.domain.action.title': 'Up to',
 	'landing.banner.content.domain.action.title.br': 'request',
